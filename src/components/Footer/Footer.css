@@ -1,0 +1,24 @@
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10 0 px;
+}
+
+.f-content {
+  margin-top: 1px 10px;
+}
+
+.f-icons a {
+  margin: 0 10px;
+  color: white;
+}
+
+/* Additional styling as needed */
+
+
+@media screen and (max-width: 480px){
+  .f-content{
+    transform: scale(.5);
+  }
+}
